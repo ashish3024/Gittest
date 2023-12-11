@@ -1,0 +1,13 @@
+
+.agecal{
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 40%;
+    width: 40%;
+    height: 80;
+    text-align: center;
+    border-radius: 12px;
+    border-width: 10px;
+    border-style: inset;
+
+}
